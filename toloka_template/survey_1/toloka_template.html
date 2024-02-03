@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meme meaning survey</title>
+</head>
+<body>
+
+<div id="surveyTemplate">
+    <img id="memeImage" src="{{meme}}" alt="Meme Image">
+    <div id="textAnnotationInterface" contenteditable="false">
+        {{textAnnotationInterface description tagsData}}
+    </div>
+
+    <!-- Additional questions -->
+    <div id="additionalQuestions">
+        <div id="meaningBox">
+            <span id="meaning">Write your understanding of the meme's meaning if you highlighted 'Relevant to the meaning'</span>
+            {{field type="input" name="meaning" placeholder="Your explanation"}}
+        </div>
+
+        <div id="commentBox">
+            <span id="comment">Write your comment if you highlighted 'No clear meaning in description'</span>
+            {{field type="input" name="comment" placeholder="Your explanation"}}
+        </div>
+
+        <div id="reasonBox">
+            <span id="reson">Reason of 'No clear meaning in description' (Not a meme / Description not sufficient / Other reason)</span>
+            {{field type="input" name="reason" placeholder="Reason type"}}
+        </div>
+
+        <div id="isRelatableBox">
+            <span id="isRelatable">Have you seen this meme before? </span>
+            {{field type="input" name="isRelatable" placeholder="(Yes / No)"}}
+        </div>
+    </div>
+
+        <!-- KYM hyperlink to meme page -->
+    <p id="kymLink">For full meme reference, visit the following <a href="{{kymLink}}" target="_blank">Know Your Meme page</a>.</p>
+
+</div>
+
+</body>
+</html>

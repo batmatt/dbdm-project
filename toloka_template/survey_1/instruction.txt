@@ -1,0 +1,31 @@
+Task Description
+In this study, you will assist in the labeling and extracting a specific information from meme descriptions sourced from the website "Know Your Meme." The objective of this task is to identify and label the part of the description that is relevant to the meaning of the meme. This exploration will contribute to our  understanding of how memes convey information through their captivating format and how people use them as a medium for communication.
+
+Task steps
+1. Access the provided Internet Meme Description section: You will be presented with a meme description taken from the "Know Your Meme" website.
+
+2. Read the Description: Carefully read the entire meme description provided to you. Pay close attention to the different aspects mentioned within the description
+
+3. Label the most significant part: Identify and label the specific portion of the description that is the most relevant to the meaning and significance of the meme. This part should provide a clear and concise understanding of what the meme represents.
+
+4. Write your own interpretation of meme's meaning: based on highlighted part write your understanding of meme's meaning.
+
+5. Give a feedback on the meme! Have you ever seen it before?
+
+Important Notes
+Please be as accurate as possible in identifying the most significant part of the meme description.
+Ensure that the provided label is short and to the point while effectively conveying the meme's meaning.
+If you feel that the description does not contain a clear and concise part that represents the meme's meaning, please indicate this according to the following steps:
+
+1. Depending on length of the description label the 3rd word of the 3rd sentence (or the 2nd /1st sentence if description isn't long enough).
+2. Provide a comment on your decision of marking the description with red label -- it may elaborate on lacks of the description, but also you still may provide your own understanding of the meme's meaning!
+
+Examples
+'Bonjour Bear' description provides relevant information about its meaning. I did see the meme before as well, so based on both description and my own experience I was able to provide my understending of the meme's meaning: 'Meme refering to someone or something appearing to us a surprise, most often not pleasant one'.
+RESPONSE EXAMPLE: link
+Description of 'One Does Not Simply Walk Into Mordor' describes the context of the original scene, but does not provide any information relevant to it's meaning in another situations -- in that specific case I knew the meme before, so I put label "No clear meaning in description" BUT I put comment that following meme refers to some situation that is complex or challanging.
+RESPONSE EXAMPLE: link
+
+
+
+Your contributions to this study will help us gain valuable insights into how memes are framed and how their meanings are communicated. Thank you for your participation!

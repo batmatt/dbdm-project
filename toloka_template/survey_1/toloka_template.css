@@ -1,0 +1,87 @@
+/* Task on the page */
+.task {
+    display: block;
+    max-width: 1200px;
+    margin: 20px auto;
+    font-size: 18px;
+}
+
+.task-suite {
+    height: 100%;
+}
+
+/* Task display on mobile devices */
+@media screen and (max-width: 767px) {
+    .task {
+        border: none;
+    }
+
+    .task_focused {
+        box-shadow: none;
+        -webkit-box-shadow: none;
+    }
+}
+
+/* Meme survey styles */
+body {
+    text-align: center;
+}
+
+#surveyTemplate {
+    margin: 20px;
+}
+
+#memeImage {
+    display: block;
+    margin: 0 auto;
+    max-width: 100%;
+    height: auto;
+}
+
+#kymLink {
+    text-align: left;
+    display: block;
+    margin: 10px 0;
+}
+
+#textAnnotationInterface {
+    text-align: left;
+    margin-top: 10px;
+}
+
+#additionalQuestions {
+    text-align: left;
+    margin-top: 10px;
+    width: 100%;
+}
+
+#additionalQuestions label {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+#additionalQuestions label input {
+    margin-right: 10px;
+}
+
+#commentBox,
+#reasonBox {
+    text-align: left;
+    color: red
+}
+
+#meaningBox {
+    text-align: left;
+    color: green
+}
+
+#commentBox textarea,
+#reasonBox textarea,
+#meaningBox textarea,
+#isRelatable textarea {
+    width: 100%;
+    height: 100px; /* Adjust the height as needed */
+    box-sizing: border-box;
+    margin-top: 10px; /* Adjust the top margin as needed */
+}
